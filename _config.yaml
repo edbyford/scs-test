@@ -3,7 +3,7 @@ title: Secure Caravan Storage
 email: info@securecaravanstorage.com
 description: Premium storage for your caravan with 24/7 security, easy access, and competitive rates.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://edbyford.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

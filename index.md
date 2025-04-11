@@ -26,14 +26,8 @@ hero_description: Premium storage for your caravan with 24/7 security, easy acce
     <p>Be the first to know when we launch. Limited spaces will be available, and priority will be given to those who register early.</p>
     
     <div class="google-form-container">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfeYh6mf8Z_wnGE7Qhcs6iaoSkd4gp6yFEqjItY-KUkGpzbw/viewform?embedded=true" 
-              width="100%" 
-              height="700" 
-              frameborder="0" 
-              marginheight="0" 
-              marginwidth="0">
-        Loading…
-      </iframe>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfeYh6mf8Z_wnGE7Qhcs6iaoSkd4gp6yFEqjItY-KUkGpzbw/viewform" target="_blank" class="register-button">Register Your Interest</a>
+      <p class="form-note">Click the button above to open our registration form</p>
     </div>
     
     <div class="privacy-notice" id="privacy">
@@ -56,13 +50,4 @@ hero_description: Premium storage for your caravan with 24/7 security, easy acce
           <li>Located just outside congestion zones</li>
           <li>Close to service stations and amenities</li>
         </ul>
-        <p>Exact location details will be shared with registered customers closer to our launch date.</p>
-      </div>
-      <div class="location-map">
-        <div class="map-placeholder">
-          Location Map Coming Soon
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+        <p>Exact location details will

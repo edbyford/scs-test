@@ -77,3 +77,37 @@
       margin-bottom: 8px;
     }
   }
+
+
+  // Add this for the registration button
+.register-button {
+  display: inline-block;
+  background-color: $primary-color;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px 30px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  margin: 20px 0;
+  
+  &:hover {
+    background-color: $secondary-color;
+    text-decoration: none;
+    color: white;
+  }
+}
+
+.form-note {
+  color: #64748b;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.map-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
