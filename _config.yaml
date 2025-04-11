@@ -1,0 +1,20 @@
+# Site settings
+title: Secure Caravan Storage
+email: info@securecaravanstorage.com
+description: Premium storage for your caravan with 24/7 security, easy access, and competitive rates.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore

@@ -1,0 +1,24 @@
+<footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-column">
+          <h3>SecureCaravanStorage</h3>
+          <p>Premium secure storage solutions for your caravan, offering peace of mind with state-of-the-art security and convenient access.</p>
+        </div>
+        <div class="footer-column">
+          <h3>Contact</h3>
+          <p>Email: {{ site.email }}</p>
+          <p>Phone: Coming Soon</p>
+        </div>
+        <div class="footer-column">
+          <h3>Quick Links</h3>
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="#privacy">Privacy Policy</a>
+          <a href="mailto:{{ site.email }}">Contact Us</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; {{ 'now' | date: "%Y" }} SecureCaravanStorage. All Rights Reserved.</p>
+      </div>
+    </div>
+  </footer>
